@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="449" height="202" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_1">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="0.686218" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#7f2727" transform="rotate(-29.475889205932617 138.52879333496088,100.85101318359372) " ry="77.062562" rx="153" id="svg_11" cy="100.851008" cx="138.5288" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00ffff"/>
+  <rect stroke="#7f2727" id="svg_12" height="91.999997" width="295.999996" y="76.14183" x="153.475784" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00ffff"/>
+  <text stroke="#7f2727" transform="matrix(1.8500763177871704,0,0,3.076923131942749,-120.40534094907343,-284.5384690761566) " font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="135.946095" x="194.448455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00007f">Dianet Ubillus Majo</text>
+  <polygon stroke-width="0" stroke="url(#svg_1)" points="165.4757843017578,20.428054809570312 169.6405487060547,32.40953063964844 182.3225860595703,32.66797637939453 172.2145233154297,40.33137512207031 175.88768005371094,52.47257995605469 165.4757843017578,45.22734069824219 155.0638885498047,52.47257995605469 158.73704528808594,40.33137512207031 148.6289825439453,32.66797637939453 161.31101989746094,32.40953063964844 165.4757843017578,20.428054809570312 169.6405487060547,32.40953063964844 " strokeWidth="0" strokecolor="url(#svg_1)" fill="#00007f" orient="point" r2="7.085509" r="17.713774" point="5" shape="star" id="svg_3" cy="101" cx="146"/>
+  <polygon id="svg_7" stroke-width="0" stroke="url(#svg_1)" points="94.47578430175781,156.61956787109375 98.64054870605469,168.60104370117188 111.32258605957031,168.85948181152344 101.21452331542969,176.52288818359375 104.88768005371094,188.66407775878906 94.47578430175781,181.41885375976562 84.06388854980469,188.66407775878906 87.73704528808594,176.52288818359375 77.62898254394531,168.85948181152344 90.31101989746094,168.60104370117188 94.47578430175781,156.61956787109375 98.64054870605469,168.60104370117188 " strokeWidth="0" strokecolor="url(#svg_1)" fill="#00007f" orient="point" r2="7.085509" r="17.713774" point="5" shape="star" cy="101" cx="146"/>
+ </g>
+</svg>

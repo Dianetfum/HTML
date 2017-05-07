@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Hoja de Vida Digital</title>
+  </head>
+  <body>
+    <header>
+      <img src="imagenes/logo_dia2.svg" alt="logo" title="Mi_logo">
+      <h1>Resumen Curricular</h1>
+      <p title="Datos Personales">
+        <ul>
+          <li><h2>Nombres y Apellidos:<h3>Dianet Franccesca Ubillus Majo</h3></h2></li>
+          <li><h2>Fecha y lugar de Nacimiento:<h3>03 de Febrero de 1982 - Lima, Peru</h3></h2></li>
+        </ul>
+      </p>
+    </header>
+    <nav>
+      <a href="index.html">Inicio</a> | <a href="educacion.html">Educación</a> | <a href="experiencia.html">Experiencia</a>
+    </nav>
+    <section>
+      <h2>Educación</h2>
+      <table border="1" cellpadding="0" cellspacing="0">
+        <thead>
+          <tr>
+            <th>Año</th>
+            <th>Institución</th>
+            <th>Lugar</th>
+            <th>¿Culminó?</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1999</td>
+            <td>Universidad Privada Antenor Orrego</td>
+            <td>Trujillo</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2005</td>
+            <td>Senati</td>
+            <td>Chiclayo</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2005</td>
+            <td>Centro de Idiomas de la Universidad Nacional Pedro Ruiz gallo</td>
+            <td>Chiclayo</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2009</td>
+            <td>Universidad privada del Norte</td>
+            <td>Trujillo</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2008</td>
+            <td>Sencico</td>
+            <td>Trujillo</td>
+            <td>Si</td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Agregar Estudios</h3>
+      <form action="">
+        <p>
+          <label for="anno"><strong>Año:</strong></label>
+          <select name="anno">
+            <option value="1">2015</option>
+            <option value="1">2016</option>
+            <option value="1">2017</option>
+          </select>
+        </p>
+        <p>
+          <label for="institucion"><strong>Institución:</strong></label>
+          <input type="text" name="institucion" required>
+        </p>
+        <p>
+          <strong>Lugar:</strong>
+          <textarea name="lugar" rows="8" cols="40"></textarea>
+        </p>
+        <p>
+          <label for="culmino"><strong>¿Culminó?</strong></label>
+          <input type="radio" name="culmino">Sí
+          <input type="radio" name="culmino">No
+        </p>
+        <p>
+          <input type="submit" value="Enviar">
+        </p>
+      </form>
+    </section>
+    <footer>
+      © Derechos Reservados
+      <ul>
+        <li><strong>Email:</strong> dianetfum@yahoo.es</li>
+        <li><strong>Teléfono:</strong> 942136889</li>
+        <li><strong>Direción:</strong> Urb. San Felipe Mz.D, Lot.8, Chiclayo, Perú</li>
+      </ul>
+    </footer>
+  </body>
+</html>
